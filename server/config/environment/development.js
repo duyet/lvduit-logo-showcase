@@ -8,5 +8,5 @@ module.exports = {
     uri: 'mongodb://localhost/lvduitherokulogo-dev'
   },
 
-  seedDB: true
+  seedDB: false
 };
