@@ -1,7 +1,7 @@
 LvDuit Logo Showcase
 =============
 
-Logo showcase for quick gallery of your Logo System. Show all logo file and link to theme. 
+Logo showcase for quick gallery of your Logo System. Show all logo file and link to them. 
 
 Technology by Node.js, Angular-Fullstack, Yeoman.
 
@@ -11,6 +11,25 @@ Quick deloy with Heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+
+Deloy
+================
+
+1 - Clone the project 
+````
+git clone https://github.com/lvduit/lvduit-logo-showcase
+cd ./lvduit-logo-showcase
+````
+
+2 - Install package 
+````
+npm install
+````
+
+3 - Run with grunt task 
+````
+grunt serve
+````
 
 
 Contact 
