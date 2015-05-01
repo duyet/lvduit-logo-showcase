@@ -1,0 +1,7 @@
+{
+  "name": "LvDuit Logos Showcase",
+  "description": "Logo showcase for quick gallery of your Logo System. Show all logo file and link to them.",
+  "repository": "https://github.com/lvduit/lvduit-logo-showcase",
+  "logo": "http://i.imgur.com/gDI8fKH.png",
+  "keywords": ["node", "express", "lvduit", "logo", "yeoman", "yo", "angular"]
+}
