@@ -1,0 +1,41 @@
+
+<header class="hero-unit" id="banner">
+  <div class="container">
+    <h1>LvDuit Logo</h1>
+    <p class="lead">LvDuit Logo Showcase! Power by Van-Duyet Le</p>
+  
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1 class="page-header">LvDuit Logo:</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-6 col-md-3"  data-ng-repeat="logo in logos" >
+
+        <div class="thumbnail" style="height: 400px">
+            <img ng-src="{{logo.url}}" alt="{{logo.name}}" />
+            <div class="caption">
+                <h3 data-ng-bind="logo.name"></h3>
+                
+                <input type="text" class="form-control" value="{{logo.url}}" required="required" pattern="" title="">
+
+            </div>
+        </div>
+
+    </div>
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="container">
+      <p>LvDuit System | Logo Showcase | 
+        <a href="http://blog.lvduit.com">Blog</a> |
+        <a href="http://lvduit.com">Home</a> |
+        <a href="https://twitter.com/lvduit">@lvduit</a></p>
+  </div>
+</footer>
