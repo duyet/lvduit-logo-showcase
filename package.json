@@ -16,7 +16,7 @@
     "image-size": "0.3.5",
     "jsonwebtoken": "0.3.0",
     "lodash": "4.17.21",
-    "method-override": "1.0.2",
+    "method-override": "2.3.10",
     "mongoose": "3.8.40",
     "morgan": "1.0.1",
     "passport": "0.2.2",
