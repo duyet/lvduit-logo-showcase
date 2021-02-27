@@ -17,7 +17,7 @@
     "jsonwebtoken": "0.3.0",
     "lodash": "4.17.21",
     "method-override": "1.0.2",
-    "mongoose": "3.8.40",
+    "mongoose": "5.7.5",
     "morgan": "1.0.1",
     "passport": "0.2.2",
     "passport-google-oauth": "latest",
